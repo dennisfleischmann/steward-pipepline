@@ -2,6 +2,6 @@
 
 node() {
    stage("OK"){
-       sh 'ls -al'
+       sh 'echo "test"'
     }
 }
