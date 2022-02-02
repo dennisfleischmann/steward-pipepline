@@ -53,6 +53,7 @@ spec:
 
                     # Run it
                     ./hello
+                    sleep 7200
                     """
                 }
             }
